@@ -15,7 +15,6 @@
    - activeTab: 用于读取当前标签页内容以生成分享卡片
    - scripting: 用于处理网页内容和生成卡片
    - downloads: 用于将生成的卡片保存为图片
-   - clipboardWrite: 用于将卡片复制到剪贴板
    - storage: 用于保存用户偏好设置
 
 4. 服务器处理
