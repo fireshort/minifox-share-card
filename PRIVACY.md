@@ -16,6 +16,7 @@
    - scripting: 用于处理网页内容和生成卡片
    - downloads: 用于将生成的卡片保存为图片
    - storage: 用于保存用户偏好设置
+   - clipboardWrite: 让用户能够一键将生成的结构化内容（包括网页标题、链接、摘要和要点）以markdown格式复制到剪贴板
 
 4. 服务器处理
    - 我们的服务器(api.yueyingspace.com)仅用于处理网页内容并提取关键信息
